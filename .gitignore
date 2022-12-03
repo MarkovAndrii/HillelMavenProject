@@ -25,4 +25,5 @@ target
 
 *.doc
 *.iml
-*.xml
+.idea
+#*.xml
